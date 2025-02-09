@@ -20,3 +20,6 @@ JavaScript
 ## 🤝 Contributing
 
 Feel free to fork this repo and enhance it! Suggestions and improvements are always welcome. 😊
+
+## Live Demo
+https://khushigupta-23.github.io/MindBoost/
